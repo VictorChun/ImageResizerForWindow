@@ -3,6 +3,8 @@ import Image
 import os
 import wx
 
+sss
+
 APP_SIZE = (500, 150)
 EXTENSIONS = ('.png', '.PNG', '.jpg', '.JPG', '.jpeg', '.JPEG')
 DEFAULT_WIDTH = 300
